@@ -1,0 +1,16 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "Semantic Analysis on News",
+  "main": "example.js",
+  "dependencies": {
+    "newyorktimes": "^0.0.2",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit"
+  },
+  "author": "",
+  "license": "ISC"
+}
